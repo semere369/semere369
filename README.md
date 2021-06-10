@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @semere369
+- 👋 Hi, I’m semere
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning about programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
